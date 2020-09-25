@@ -1,9 +1,8 @@
-# Java Spring based Server Side Request Forgery (SSRF) examples
+# Java Spring based Server Side Request Forgery (SSRF) examples
 
 This project is a collection of libraries in Java that perform requests on behalf of users to external API's (typically REST).
 
-
-## Running Spring App
+## Running the Project
 
 ```bash
 ./mvnw spring-boot:run
